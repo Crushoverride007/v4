@@ -1,11 +1,11 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
+  "name": "Next Gen Personal Portfolio",
+  "description": "Personal Portfolio",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Mouhcine MESMOUKI <mouhcime.mesmouki7@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/Crushoverride007/NextGenPortfolio"
   },
   "keywords": [
     "gatsby"
